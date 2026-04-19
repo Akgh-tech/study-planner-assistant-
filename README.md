@@ -1,22 +1,33 @@
-# study-planner-assistant-
-A smart assistant that creates study schedules
-# Student Study Planner Assistant
+# 🤖 Smart Study Planner Assistant
 
-## Chosen Vertical
+## 📌 Chosen Vertical
 Productivity / Student Assistant
 
-## What it does
-This assistant helps students create a simple study plan based on the subjects they enter and the time available.
+## 💡 Overview
+This project is a smart assistant designed to help students create effective study plans based on their available time and subjects.
 
-## How it works
-- User inputs subjects and available time
-- The assistant divides time accordingly
-- Suggests breaks and revision strategy
+## ⚙️ How It Works
+- Takes user input (subjects and study time)
+- Uses logical conditions to decide study strategy
+- Generates a structured study plan
+- Suggests breaks and revision techniques
 
-## Tools Used
+## 🧠 Features
+- Dynamic decision-making based on time
+- Personalized subject allocation
+- Clean and user-friendly output
+- Encourages healthy study habits
+
+## 🛠️ Tools Used
 - Python
-- Google Antigravity
+- Google Antigravity (for prompt-based development)
 
-## Assumptions
-- User provides valid input
-- Time is flexible per subject
+## 🔗 Google Services Integration (Future Scope)
+This assistant can be extended to integrate with:
+- Google Calendar API for scheduling study sessions
+- Google Tasks for tracking progress
+- Notifications and reminders
+
+## ⚠️ Assumptions
+- User inputs are valid
+- Time is flexible for each subject
